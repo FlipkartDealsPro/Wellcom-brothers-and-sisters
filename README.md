@@ -1,4 +1,3 @@
-# Wellcom-brothers-and-sisters
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -26,11 +25,6 @@
       background: white;
       border-radius: 8px;
       box-shadow: 0 0 10px rgba(0,0,0,0.05);
-    }
-    iframe {
-      width: 100%;
-      border-radius: 8px;
-      margin-bottom: 20px;
     }
     h2 {
       font-size: 22px;
@@ -114,21 +108,17 @@
 
   <!-- Product Section -->
   <main>
-    <!-- YouTube Video -->
-    <iframe height="315" src="https://www.youtube.com/embed/lQJcAx68wYg?si=FdMEK7o1TWF4eSFA" 
-      title="YouTube video player" frameborder="0" allowfullscreen></iframe>
-
     <!-- Product Info -->
-    <h2>EVRGLOW EVR-001 Analog Watch - For Women</h2>
-    <p class="price">Now ₹250 <span style="text-decoration: line-through; color: gray;">(MRP ₹1499)</span> – 85% OFF</p>
-    <p class="info">🟡 Color: Gold Strap, Green Dial</p>
-    <p class="ratings">⭐ 4.0 | 8,453 Ratings</p>
+    <h2>White Casual Sneakers for Men</h2>
+    <p class="price">Now ₹400 <span style="text-decoration: line-through; color: gray;">(MRP ₹600)</span> – 33% OFF</p>
+    <p class="info">👟 Color: White</p>
+    <p class="info">🔁 Replace in 4 Days</p>
     <p class="info" style="color: #16a34a; font-weight: bold;">🚚 Delivered by Flipkart Group – Trusted Product Line</p>
 
     <!-- Button to Scroll to Form -->
     <div style="margin-top: 20px;">
-      <p style="font-size: 14px; color: #555;">Want to order under ₹250 on website?</p>
-      <button class="btn btn-yellow" onclick="scrollToForm()">Buy on Website under ₹250</button>
+      <p style="font-size: 14px; color: #555;">Want to order under ₹400 on website?</p>
+      <button class="btn btn-yellow" onclick="scrollToForm()">Buy on Website under ₹400</button>
     </div>
 
     <!-- Form Container -->
